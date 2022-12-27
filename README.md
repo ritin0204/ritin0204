@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritin0204
-- 👀 I’m interested in developinng.
-- 🌱 I’m currently learning python tools.
+- 👀 I’m interested in Web developement.
+- 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on inovative projects.
 - 📫 How to reach me :
 - Linkedin: https://www.linkedin.com/in/ritin-tiwari
