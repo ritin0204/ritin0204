@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @ritin0204
-- 👀 I’m interested in Web developement.
-- 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking to collaborate on inovative projects.
-- 📫 How to reach me :
-- Linkedin: https://www.linkedin.com/in/ritin-tiwari
-- Website: https://ritin-tiwari.firebaseapp.com/
-
-<!---
-ritin0204/ritin0204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Ritin Tiwari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -25,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with **GPT projects**
+- 🤝 I’m looking for help with **GPT,AI/ML**
 
-- 👨‍💻 All of my projects are available at [#thisSiteIsTurnedDownByOriginalAuthor](#thisSiteIsTurnedDownByOriginalAuthor)
+- 👨‍💻 All of my projects are available at [https://ritin-tiwari.firebaseapp.com](https://ritin-tiwari.firebaseapp.com)
 
 - 📝 I regularly write articles on [#ComingSoon](#ComingSoon)
 
@@ -55,3 +43,9 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritin0204&show_icons=true&locale=en" alt="ritin0204" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritin0204&" alt="ritin0204" /></p>
+
+
+<!---
+ritin0204/ritin0204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
