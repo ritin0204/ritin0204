@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **eCommerce Site**
 
-- 🌱 I’m currently learning **NextJS and ExpressJS**
+- 🌱 I’m currently learning **Machine learning and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
